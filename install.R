@@ -1,1 +1,1 @@
-installpackages("ggplot2")
+install.packages("ggplot2")
