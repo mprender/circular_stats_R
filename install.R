@@ -1,6 +1,5 @@
 install.packages("devtools")
 install.packages("ggplot2")
-install.packages("stats")
 install.package("mvtnorm")
 install.packages("boots")
 install.packages("circular")
