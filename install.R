@@ -1,6 +1,0 @@
-install.packages("devtools")
-install.packages("ggplot2")
-install.package("mvtnorm")
-install.packages("boots")
-install.packages("circular")
-install.packages("dplyr")
