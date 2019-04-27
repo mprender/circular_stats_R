@@ -1,6 +1,7 @@
 install.packages("devtools")
 install.packages("ggplot2")
 install.packages("stats")
-install.packages("circular", repos="http://R-Forge.R-project.org")
+install.packages("circular", dependencies = TRUE)
+install.packages("circular", repos="https://cran.r-project.org/web/packages/circular/index.html",type="source")
 install.packages("dplyr")
 install.packages("r-cran-circular")
